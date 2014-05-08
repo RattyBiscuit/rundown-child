@@ -5,6 +5,6 @@ Child theme to the Wordpress theme [Rundown] (https://wordpress.org/themes/rundo
 
 To use, add a new folder in your themes folder (*WORDPRESS/wp-config/themes*) called rundown-child
 
-Simply add the content.php file to this folder
+Simply add the *content.php* and *screenshot.png* files to this folder
 
 You can then select the theme Rundown Child in your theme browser
