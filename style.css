@@ -1,0 +1,17 @@
+/*
+
+Theme Name: Rundown Child
+Theme URI: http://www.kharissulistiyono.com/wp-labs/rundown-wordpress-theme
+Author: Kharis Sulistiyono
+Author URI: http://kharissulistiyono.com
+Description: When something seems so hard to be done, do it point-by-point. Rundown is a responsive WordPress theme that suits for your personal web blog. It comes with some features such as fully responsive,  magazine style, two skins option, and fits into high resolution screen, custom background, custom header image, and more.
+Version: 1.7.4
+Template: rundown
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: dark, gray, two-columns, right-sidebar, custom-header, custom-menu, full-width-template, sticky-post, translation-ready, responsive-layout, microformats, theme-options, featured-images
+Text Domain: rundown
+*/
+
+
+@import url("../rundown/style.css");
